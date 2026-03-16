@@ -64,7 +64,6 @@ Use Trello to manage tasks and milestones in your ISO 27001 implementation.
 
 Use Notion to keep a centralized record of your learning journey, templates, and progress updates.
 
-Structure of the Repository
 ISO-27001-Implementation/
 │
 ├── 01_ISO_27001_Basics/
