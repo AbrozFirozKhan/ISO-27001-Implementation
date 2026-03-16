@@ -65,43 +65,42 @@ Use Trello to manage tasks and milestones in your ISO 27001 implementation.
 Use Notion to keep a centralized record of your learning journey, templates, and progress updates.
 
 ISO-27001-Implementation/
-│
 ├── 01_Introduction/
-│   ├── ISO_27001_Overview.md           # Introduction to ISO 27001 standard
-│   ├── Key_Concepts.md                 # Key concepts and definitions
-│   └── PDCA_Cycle.md                   # Explanation of the PDCA cycle
+│ ├── ISO_27001_Overview.md # Introduction to ISO 27001 standard
+│ ├── Key_Concepts.md # Key concepts and definitions
+│ └── PDCA_Cycle.md # Explanation of the PDCA cycle
 │
 ├── 02_Risk_Management/
-│   ├── Risk_Register.md                # Risk Register template
-│   ├── Risk_Treatment_Plan.md          # Risk Treatment Plan template
-│   ├── Risk_Assessment_Guidelines.md   # Risk Assessment guidelines
-│   └── Risk_Assessment_Template.xlsx  # Excel template for Risk Register
+│ ├── Risk_Register.md # Risk Register template
+│ ├── Risk_Treatment_Plan.md # Risk Treatment Plan template
+│ ├── Risk_Assessment_Guidelines.md # Risk Assessment guidelines
+│ └── Risk_Assessment_Template.xlsx # Excel template for Risk Register
 │
 ├── 03_Security_Controls/
-│   ├── Access_Control_Policy.md        # Access Control Policy template
-│   ├── Incident_Management_Policy.md  # Incident Management Policy template
-│   ├── Business_Continuity_Plan.md    # Business Continuity Policy template
-│   └── Data_Protection_Policy.md      # Data Protection Policy template
+│ ├── Access_Control_Policy.md # Access Control Policy template
+│ ├── Incident_Management_Policy.md # Incident Management Policy template
+│ ├── Business_Continuity_Plan.md # Business Continuity Policy template
+│ └── Data_Protection_Policy.md # Data Protection Policy template
 │
 ├── 04_Audit_Templates/
-│   ├── Internal_Audit_Checklist.md     # Internal Audit Checklist template
-│   ├── Audit_Plan.md                  # Audit Plan template
-│   ├── Audit_Report.md                # Audit Report template
-│   └── Management_Review.md           # Management Review template
+│ ├── Internal_Audit_Checklist.md # Internal Audit Checklist template
+│ ├── Audit_Plan.md # Audit Plan template
+│ ├── Audit_Report.md # Audit Report template
+│ └── Management_Review.md # Management Review template
 │
 ├── 05_Certification_Readiness/
-│   ├── Certification_Checklist.md     # Certification checklist for ISO 27001
-│   ├── Certification_Preparation.md   # Detailed preparation guide for certification
-│   └── ISO_27001_Certification_Process.md  # Steps for the certification process
+│ ├── Certification_Checklist.md # Certification checklist for ISO 27001
+│ ├── Certification_Preparation.md # Detailed preparation guide for certification
+│ └── ISO_27001_Certification_Process.md # Steps for the certification process
 │
 ├── 06_Resources/
-│   ├── ISO_27001_Training_Materials.md  # Learning resources and training materials
-│   ├── External_Resources.md            # Links to external resources, articles, and tools
-│   └── Glossary.md                     # Glossary of key ISO 27001 terms and definitions
+│ ├── ISO_27001_Training_Materials.md # Learning resources and training materials
+│ ├── External_Resources.md # Links to external resources, articles, and tools
+│ └── Glossary.md # Glossary of key ISO 27001 terms and definitions
 │
-├── .gitignore                           # Git ignore file to exclude unnecessary files
-├── LICENSE                              # License information (e.g., MIT License)
-└── README.md                            # Project overview and instructions for use
+├── .gitignore # Git ignore file to exclude unnecessary files
+├── LICENSE # License information (e.g., MIT License)
+└── README.md # Project overview and instructions for use
 How to Use the Repository
 
 Read ISO 27001 Overview:
